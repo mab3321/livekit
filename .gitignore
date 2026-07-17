@@ -27,3 +27,5 @@ proto/
 .idea/
 
 dist/
+config.bat
+node_modules
